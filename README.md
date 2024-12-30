@@ -29,3 +29,5 @@ The dataset used in this project is publicly available and free to use. It inclu
 - **Age**: The age of the individual in years. Older age is a known risk factor for type 2 diabetes.
   
 - **Outcome**: The target variable where **1** indicates the individual has diabetes and **0** means they do not. This is the value the model predicts.
+
+  *Credit to @Siddhardhan on YouTube for helping me out with a lot of learning and access to the dataset.*
